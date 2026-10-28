@@ -1,0 +1,97 @@
+Proposition C vs the Delsarte counts of t2_hodge_count.py (F = x^3+y^3+z^3, J = y^2z+x^3+xz^2, l terms z^3)
+   -|l=4        dim= 2  formula      7  Delsarte      7  h^{m,m}_prim      6  dim H_prim      6  agree
+   F|l=1        dim= 2  formula      7  Delsarte      7  h^{m,m}_prim      6  dim H_prim      6  agree
+   J|l=1        dim= 2  formula      7  Delsarte      7  h^{m,m}_prim      6  dim H_prim      6  agree
+   -|l=6        dim= 4  formula     21  Delsarte     21  h^{m,m}_prim     20  dim H_prim     22  agree
+   F|l=3        dim= 4  formula     21  Delsarte     21  h^{m,m}_prim     20  dim H_prim     22  agree
+   J|l=3        dim= 4  formula     19  Delsarte     19  h^{m,m}_prim     20  dim H_prim     22  agree
+   FF|l=0       dim= 4  formula     21  Delsarte     21  h^{m,m}_prim     20  dim H_prim     22  agree
+   FJ|l=0       dim= 4  formula     19  Delsarte     19  h^{m,m}_prim     20  dim H_prim     22  agree
+   JJ|l=0       dim= 4  formula     21  Delsarte     21  h^{m,m}_prim     20  dim H_prim     22  agree
+   -|l=8        dim= 6  formula     71  Delsarte     71  h^{m,m}_prim     70  dim H_prim     86  agree
+   F|l=5        dim= 6  formula     71  Delsarte     71  h^{m,m}_prim     70  dim H_prim     86  agree
+   J|l=5        dim= 6  formula     61  Delsarte     61  h^{m,m}_prim     70  dim H_prim     86  agree
+   FF|l=2       dim= 6  formula     71  Delsarte     71  h^{m,m}_prim     70  dim H_prim     86  agree
+   FJ|l=2       dim= 6  formula     61  Delsarte     61  h^{m,m}_prim     70  dim H_prim     86  agree
+   JJ|l=2       dim= 6  formula     59  Delsarte     59  h^{m,m}_prim     70  dim H_prim     86  agree
+   -|l=10       dim= 8  formula    253  Delsarte    253  h^{m,m}_prim    252  dim H_prim    342  agree
+   F|l=7        dim= 8  formula    253  Delsarte    253  h^{m,m}_prim    252  dim H_prim    342  agree
+   J|l=7        dim= 8  formula    211  Delsarte    211  h^{m,m}_prim    252  dim H_prim    342  agree
+   FF|l=4       dim= 8  formula    253  Delsarte    253  h^{m,m}_prim    252  dim H_prim    342  agree
+   FJ|l=4       dim= 8  formula    211  Delsarte    211  h^{m,m}_prim    252  dim H_prim    342  agree
+   JJ|l=4       dim= 8  formula    193  Delsarte    193  h^{m,m}_prim    252  dim H_prim    342  agree
+   FFF|l=1      dim= 8  formula    253  Delsarte    253  h^{m,m}_prim    252  dim H_prim    342  agree
+   FFJ|l=1      dim= 8  formula    211  Delsarte    211  h^{m,m}_prim    252  dim H_prim    342  agree
+   FJJ|l=1      dim= 8  formula    193  Delsarte    193  h^{m,m}_prim    252  dim H_prim    342  agree
+   JJJ|l=1      dim= 8  formula    199  Delsarte    199  h^{m,m}_prim    252  dim H_prim    342  agree
+   -|l=12       dim=10  formula    925  Delsarte    925  h^{m,m}_prim    924  dim H_prim   1366  agree
+   F|l=9        dim=10  formula    925  Delsarte    925  h^{m,m}_prim    924  dim H_prim   1366  agree
+   J|l=9        dim=10  formula    757  Delsarte    757  h^{m,m}_prim    924  dim H_prim   1366  agree
+   FF|l=6       dim=10  formula    925  Delsarte    925  h^{m,m}_prim    924  dim H_prim   1366  agree
+   FJ|l=6       dim=10  formula    757  Delsarte    757  h^{m,m}_prim    924  dim H_prim   1366  agree
+   JJ|l=6       dim=10  formula    671  Delsarte    671  h^{m,m}_prim    924  dim H_prim   1366  agree
+   FFF|l=3      dim=10  formula    925  Delsarte    925  h^{m,m}_prim    924  dim H_prim   1366  agree
+   FFJ|l=3      dim=10  formula    757  Delsarte    757  h^{m,m}_prim    924  dim H_prim   1366  agree
+   FJJ|l=3      dim=10  formula    671  Delsarte    671  h^{m,m}_prim    924  dim H_prim   1366  agree
+   JJJ|l=3      dim=10  formula    649  Delsarte    649  h^{m,m}_prim    924  dim H_prim   1366  agree
+   FFFF|l=0     dim=10  formula    925  Delsarte    925  h^{m,m}_prim    924  dim H_prim   1366  agree
+   FFFJ|l=0     dim=10  formula    757  Delsarte    757  h^{m,m}_prim    924  dim H_prim   1366  agree
+   FFJJ|l=0     dim=10  formula    671  Delsarte    671  h^{m,m}_prim    924  dim H_prim   1366  agree
+   FJJJ|l=0     dim=10  formula    649  Delsarte    649  h^{m,m}_prim    924  dim H_prim   1366  agree
+   JJJJ|l=0     dim=10  formula    709  Delsarte    709  h^{m,m}_prim    924  dim H_prim   1366  agree
+   -|l=14       dim=12  formula   3433  Delsarte   3433  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   F|l=11       dim=12  formula   3433  Delsarte   3433  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   J|l=11       dim=12  formula   2773  Delsarte   2773  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   FF|l=8       dim=12  formula   3433  Delsarte   3433  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   FJ|l=8       dim=12  formula   2773  Delsarte   2773  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   JJ|l=8       dim=12  formula   2409  Delsarte   2409  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   FFF|l=5      dim=12  formula   3433  Delsarte   3433  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   FFJ|l=5      dim=12  formula   2773  Delsarte   2773  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   FJJ|l=5      dim=12  formula   2409  Delsarte   2409  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   JJJ|l=5      dim=12  formula   2251  Delsarte   2251  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   FFFF|l=2     dim=12  formula   3433  Delsarte   3433  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   FFFJ|l=2     dim=12  formula   2773  Delsarte   2773  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   FFJJ|l=2     dim=12  formula   2409  Delsarte   2409  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   FJJJ|l=2     dim=12  formula   2251  Delsarte   2251  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   JJJJ|l=2     dim=12  formula   2281  Delsarte   2281  h^{m,m}_prim   3432  dim H_prim   5462  agree
+   -|l=16       dim=14  formula  12871  Delsarte  12871  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   F|l=13       dim=14  formula  12871  Delsarte  12871  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   J|l=13       dim=14  formula  10297  Delsarte  10297  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   FF|l=10      dim=14  formula  12871  Delsarte  12871  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   FJ|l=10      dim=14  formula  10297  Delsarte  10297  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   JJ|l=10      dim=14  formula   8821  Delsarte   8821  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   FFF|l=7      dim=14  formula  12871  Delsarte  12871  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   FFJ|l=7      dim=14  formula  10297  Delsarte  10297  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   FJJ|l=7      dim=14  formula   8821  Delsarte   8821  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   JJJ|l=7      dim=14  formula   8065  Delsarte   8065  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   FFFF|l=4     dim=14  formula  12871  Delsarte  12871  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   FFFJ|l=4     dim=14  formula  10297  Delsarte  10297  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   FFJJ|l=4     dim=14  formula   8821  Delsarte   8821  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   FJJJ|l=4     dim=14  formula   8065  Delsarte   8065  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   JJJJ|l=4     dim=14  formula   7867  Delsarte   7867  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   FFFFF|l=1    dim=14  formula  12871  Delsarte  12871  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   FFFFJ|l=1    dim=14  formula  10297  Delsarte  10297  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   FFFJJ|l=1    dim=14  formula   8821  Delsarte   8821  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   FFJJJ|l=1    dim=14  formula   8065  Delsarte   8065  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   FJJJJ|l=1    dim=14  formula   7867  Delsarte   7867  h^{m,m}_prim  12870  dim H_prim  21846  agree
+   JJJJJ|l=1    dim=14  formula   8281  Delsarte   8281  h^{m,m}_prim  12870  dim H_prim  21846  agree
+Literature controls (cubic fourfolds F_1(x) + F_2(y) = 0)
+   E_1, E_2 not isogenous       formula   19  expected   19  (Koike Thm 1.7: transcendental rank 4, so 23 - 4 = 19)  agree
+   E_1 ~ E_2 without CM         formula   20  expected   20  (19 + rk Hom(E_1, E_2) = 20)  agree
+   E_1 ~ E_2 with CM            formula   21  expected   21  (Beauville (Koike Prop 1.6): maximal, h^{2,2} = 21)  agree
+   E_1 = E_2 = E_omega          formula   21  expected   21  (Fermat cubic fourfold: h^{2,2} = 21)  agree
+   E_1 ~ E_omega, E_2 no CM     formula   19  expected   19  (19 + 0)  agree
+Blocks without CM (G, H, I, L pairwise non-isogenous, no CM); the very general members
+   GH|l=0       dim= 4  formula     19  h^{m,m}_prim     20
+   GG|l=0       dim= 4  formula     20  h^{m,m}_prim     20
+   G|l=5        dim= 6  formula     61  h^{m,m}_prim     70
+   GH|l=2       dim= 6  formula     55  h^{m,m}_prim     70
+   GG|l=2       dim= 6  formula     57  h^{m,m}_prim     70
+   GHI|l=1      dim= 8  formula    163  h^{m,m}_prim    252
+   GGG|l=1      dim= 8  formula    181  h^{m,m}_prim    252
+   GHIL|l=0     dim=10  formula    487  h^{m,m}_prim    924
+   GGHH|l=0     dim=10  formula    524  h^{m,m}_prim    924
+   GGGG|l=0     dim=10  formula    597  h^{m,m}_prim    924
+   GHI|l=3      dim=10  formula    541  h^{m,m}_prim    924
+   G|l=9        dim=10  formula    757  h^{m,m}_prim    924
+ALL AGREE

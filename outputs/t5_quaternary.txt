@@ -1,0 +1,92 @@
+(1) Jacobian rings over F_10007: Hilbert functions (1+t)^n for n = 3, 4 and Y_G; sigma-eigenspace dimensions (chi 1, chi 2) of H^(2,1), H^(1,2): (4,1), (1,4) -- ok
+    {"block_vars": 3, "hilbert": [1, 3, 3, 1, 0], "ok": true}
+    {"block_vars": 3, "hilbert": [1, 3, 3, 1, 0], "ok": true}
+    {"block_vars": 3, "hilbert": [1, 3, 3, 1, 0], "ok": true}
+    {"block_vars": 4, "hilbert": [1, 4, 6, 4, 1, 0], "ok": true}
+    {"block_vars": 4, "hilbert": [1, 4, 6, 4, 1, 0], "ok": true}
+    {"block_vars": 4, "hilbert": [1, 4, 6, 4, 1, 0], "ok": true}
+    {"Y_G": true, "hilbert_G": [1, 4, 6, 4, 1, 0], "hilbert_Y": [1, 5, 10, 10, 5, 1, 0], "eigen_dims_chi1_chi2": {"h21": [4, 1], "h12": [1, 4]}, "ok": true}
+    {"Y_G": true, "hilbert_G": [1, 4, 6, 4, 1, 0], "hilbert_Y": [1, 5, 10, 10, 5, 1, 0], "eigen_dims_chi1_chi2": {"h21": [4, 1], "h12": [1, 4]}, "ok": true}
+    {"Y_G": true, "hilbert_G": [1, 4, 6, 4, 1, 0], "hilbert_Y": [1, 5, 10, 10, 5, 1, 0], "eigen_dims_chi1_chi2": {"h21": [4, 1], "h12": [1, 4]}, "ok": true}
+(2) block table (a, dim, character, excess); character-1 part of G = W (x) mu with W of signature (4,1), mu of excess -1/6; totals (2^N+2)/3 and binom(N,N/2) for N <= 16 -- ok
+    n = 1: [(0, 1, 1, '-1/6'), (1, 1, 2, '1/6')]
+    n = 3: [(0, 1, 0, '-1/2'), (1, 3, 1, '-1/6'), (2, 3, 2, '1/6'), (3, 1, 0, '1/2')]
+    n = 4: [(0, 1, 1, '-2/3'), (1, 4, 2, '-1/3'), (2, 6, 0, '0'), (3, 4, 1, '1/3'), (4, 1, 2, '2/3')]
+(3) I(a,b) = dim (W^a (x) W*^b)^SL5 (Brauer-Klimyk): a! for a = b, 0 unless a = b mod 5, I(5,0) = 1, I(6,1) = 5 -- ok
+    I(0,0) = 1, I(0,5) = 1, I(1,1) = 1, I(1,6) = 5, I(2,2) = 2, I(3,3) = 6, I(4,4) = 24, I(5,0) = 1, I(6,1) = 5
+(4) Proposition C': closed formula = sum over counts = explicit-weight count (where run), dim H_prim = (2^N+2)/3, (m,m)-part = binom(N,N/2); and = Proposition C on 467 configurations without quaternary blocks -- ok
+    [ternary blocks | quaternary classes | l]  (w: E_omega, i: CM by Z[i], E#: no CM; equal letters = equal G)
+    [|G|l=2]                           dim  4: Hdg      13  determinant part   0  (counts 13, weights 13) ok
+    [|G|l=4]                           dim  6: Hdg      37  determinant part   0  (counts 37, weights 37) ok
+    [w|G|l=1]                          dim  6: Hdg      37  determinant part   0  (counts 37, weights 37) ok
+    [E0|G|l=1]                         dim  6: Hdg      37  determinant part   0  (counts 37, weights 37) ok
+    [i|G|l=1]                          dim  6: Hdg      37  determinant part   0  (counts 37, weights 37) ok
+    [|G,G|l=0]                         dim  6: Hdg      39  determinant part   0  (counts 39, weights 39) ok
+    [|G,H|l=0]                         dim  6: Hdg      37  determinant part   0  (counts 37, weights 37) ok
+    [|G,G|l=2]                         dim  8: Hdg      77  determinant part   0  (counts 77, weights 77) ok
+    [w|G,G|l=1]                        dim 10: Hdg     229  determinant part   0  (counts 229, weights 229) ok
+    [ww|G|l=0]                         dim  8: Hdg     121  determinant part   0  (counts 121, weights 121) ok
+    [|G,G,G|l=0]                       dim 10: Hdg     253  determinant part   0  (counts 253, weights 253) ok
+    [|G,G,H|l=0]                       dim 10: Hdg     229  determinant part   0  (counts 229, weights 229) ok
+    [|G,H,K|l=0]                       dim 10: Hdg     217  determinant part   0  (counts 217, weights 217) ok
+    [|G,G|l=4]                         dim 10: Hdg     229  determinant part   0  (counts 229, weights 229) ok
+    [E0E0|G|l=0]                       dim  8: Hdg     115  determinant part   0  (counts 115, weights 115) ok
+    [E0E1|G|l=0]                       dim  8: Hdg     109  determinant part   0  (counts 109, weights 109) ok
+    [|G,G,G,G|l=0]                     dim 14: Hdg    1741  determinant part   0  (counts 1741, weights 1741) ok
+    [|G,G,H,H|l=0]                     dim 14: Hdg    1445  determinant part   0  (counts 1445, weights 1445) ok
+    [ww|G,G|l=0]                       dim 12: Hdg     761  determinant part   0  (counts 761, weights 761) ok
+    [|G,G,G,G|l=2]                     dim 16: Hdg    3481  determinant part   0  (counts 3481, weights 3481) ok
+    [|G,G,G,G,G|l=4]                   dim 22: Hdg   74739  determinant part   2  (counts 74739, weights 74739) ok
+    [w|G,G,G,G,G|l=1]                  dim 22: Hdg   74739  determinant part   2  (counts 74739, weights 74739) ok
+    [|G,G,G,G,G,H,H,H,H,H|l=0]         dim 38: Hdg 155151939  determinant part   2  (counts 155151939, weights None) ok
+(5) specialisation G -> F + u^3 never lowers dim Hdg (46 comparisons) -- ok
+    [|G|l=2]                           fermat     generic      13 <= special      21
+    [|G|l=2]                           generic F  generic      13 <= special      19
+    [|G|l=4]                           fermat     generic      37 <= special      71
+    [|G|l=4]                           generic F  generic      37 <= special      61
+    [w|G|l=1]                          fermat     generic      37 <= special      71
+    [w|G|l=1]                          generic F  generic      37 <= special      61
+    [E0|G|l=1]                         fermat     generic      37 <= special      61
+    [E0|G|l=1]                         generic F  generic      37 <= special      55
+    [i|G|l=1]                          fermat     generic      37 <= special      61
+    [i|G|l=1]                          generic F  generic      37 <= special      55
+    [|G,G|l=0]                         fermat     generic      39 <= special      71
+    [|G,G|l=0]                         generic F  generic      39 <= special      57
+    [|G,H|l=0]                         fermat     generic      37 <= special      71
+    [|G,H|l=0]                         generic F  generic      37 <= special      55
+    [|G,G|l=2]                         fermat     generic      77 <= special     253
+    [|G,G|l=2]                         generic F  generic      77 <= special     187
+    [w|G,G|l=1]                        fermat     generic     229 <= special     925
+    [w|G,G|l=1]                        generic F  generic     229 <= special     651
+    [ww|G|l=0]                         fermat     generic     121 <= special     253
+    [ww|G|l=0]                         generic F  generic     121 <= special     211
+    [|G,G,G|l=0]                       fermat     generic     253 <= special     925
+    [|G,G,G|l=0]                       generic F  generic     253 <= special     595
+    [|G,G,H|l=0]                       fermat     generic     229 <= special     925
+    [|G,G,H|l=0]                       generic F  generic     229 <= special     559
+    [|G,H,K|l=0]                       fermat     generic     217 <= special     925
+    [|G,H,K|l=0]                       generic F  generic     217 <= special     541
+    [|G,G|l=4]                         fermat     generic     229 <= special     925
+    [|G,G|l=4]                         generic F  generic     229 <= special     651
+    [E0E0|G|l=0]                       fermat     generic     115 <= special     187
+    [E0E0|G|l=0]                       generic F  generic     115 <= special     169
+    [E0E1|G|l=0]                       fermat     generic     109 <= special     181
+    [E0E1|G|l=0]                       generic F  generic     109 <= special     163
+    [|G,G,G,G|l=0]                     fermat     generic    1741 <= special   12871
+    [|G,G,G,G|l=0]                     generic F  generic    1741 <= special    6763
+    [|G,G,H,H|l=0]                     fermat     generic    1445 <= special   12871
+    [|G,G,H,H|l=0]                     generic F  generic    1445 <= special    6037
+    [ww|G,G|l=0]                       fermat     generic     761 <= special    3433
+    [ww|G,G|l=0]                       generic F  generic     761 <= special    2339
+    [|G,G,G,G|l=2]                     fermat     generic    3481 <= special   48621
+    [|G,G,G,G|l=2]                     generic F  generic    3481 <= special   24233
+    [|G,G,G,G,G|l=4]                   fermat     generic   74739 <= special 2704157
+    [|G,G,G,G,G|l=4]                   generic F  generic   74739 <= special 1091017
+    [w|G,G,G,G,G|l=1]                  fermat     generic   74739 <= special 2704157
+    [w|G,G,G,G,G|l=1]                  generic F  generic   74739 <= special 1091017
+    [|G,G,G,G,G,H,H,H,H,H|l=0]         fermat     generic 155151939 <= special 137846528821
+    [|G,G,G,G,G,H,H,H,H,H|l=0]         generic F  generic 155151939 <= special 18471871045
+(6) determinant (Weil-type) Hodge classes in a single hypersurface, all configurations with N <= 24 (quaternary classes, kw blocks ~ E_omega, kg pairwise non-isogenous blocks without CM, l cubes): first at N = 24 (dimension 22); 2 configurations have them -- ok
+    classes [5], kw 0, kg 0, l 4: dim Hdg 74739, determinant part 2
+    classes [5], kw 1, kg 0, l 1: dim Hdg 74739, determinant part 2
+ALL CHECKS PASS

@@ -1,0 +1,9 @@
+(1) phi maps X1 x X2 to W (symbolic, f = ternary + z^3, g = ternary, d = 3, eps = -1): True
+(2) Fulton: deg(psi)/3 for dim X2 = 2, dim X1 = 1..10: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]  (all 1: True)
+(3) p=7 dim W=4: #X1(F_p)=71 #X2(F_p)=50 #W(F_p)=2752, points with f(x)!=0: 2205, mismatches: 0
+(3) p=7 dim W=5: #X1(F_p)=449 #X2(F_p)=50 #W(F_p)=19216, points with f(x)!=0: 15729, mismatches: 0
+(3) p=13 dim W=4: #X1(F_p)=183 #X2(F_p)=183 #W(F_p)=30993, points with f(x)!=0: 27720, mismatches: 0
+(4) k=2 l=0 N=6: Hilbert function of R_h [1, 6, 15, 20, 15, 6, 1, 0], expected binom(N,t) and R_{N+1}=0: True
+(4) k=2 l=1 N=7: Hilbert function of R_h [1, 7, 21, 35, 35, 21, 7, 1, 0], expected binom(N,t) and R_{N+1}=0: True
+(4) k=1 l=3 N=6: Hilbert function of R_h [1, 6, 15, 20, 15, 6, 1, 0], expected binom(N,t) and R_{N+1}=0: True
+(4) control, nodal block + smooth block, N=6: Hilbert function [1, 6, 15, 20, 16, 10, 8, 8], R_7 != 0: True

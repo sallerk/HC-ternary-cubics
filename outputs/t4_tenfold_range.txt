@@ -1,0 +1,49 @@
+Cubic tenfolds F_1+F_2+F_3+F_4 = 0: dim Hdg^5 from Proposition C over all configurations of E_1..E_4
+set partitions of {1,2,3,4}: 15
+configurations (classes labelled w / cm / gen, at most one w): 227
+configurations up to permuting the curves: 38
+value depends only on the configuration up to permutation: True
+min 487, max 925
+distinct values (18): 487 505 523 524 541 543 559 563 577 595 597 631 649 651 671 709 757 925
+configurations violating "487 <= dim <= 925, and 487 iff four singleton classes, none w": 0
+value 925 attained by: ((4, 'w'),)
+per configuration up to permutation, (class size, label) ... : dim Hdg^5
+   1cm 1cm 1cm 1cm                                      487
+   1cm 1cm 1cm 1gen                                     487
+   1cm 1cm 1cm 1w                                       541
+   1cm 1cm 1gen 1gen                                    487
+   1cm 1cm 1gen 1w                                      541
+   1cm 1cm 2cm                                          523
+   1cm 1cm 2gen                                         505
+   1cm 1cm 2w                                           631
+   1cm 1gen 1gen 1gen                                   487
+   1cm 1gen 1gen 1w                                     541
+   1cm 1gen 2cm                                         523
+   1cm 1gen 2gen                                        505
+   1cm 1gen 2w                                          631
+   1cm 1w 2cm                                           577
+   1cm 1w 2gen                                          559
+   1cm 3cm                                              595
+   1cm 3gen                                             541
+   1cm 3w                                               757
+   1gen 1gen 1gen 1gen                                  487
+   1gen 1gen 1gen 1w                                    541
+   1gen 1gen 2cm                                        523
+   1gen 1gen 2gen                                       505
+   1gen 1gen 2w                                         631
+   1gen 1w 2cm                                          577
+   1gen 1w 2gen                                         559
+   1gen 3cm                                             595
+   1gen 3gen                                            541
+   1gen 3w                                              757
+   1w 3cm                                               649
+   1w 3gen                                              595
+   2cm 2cm                                              563
+   2cm 2gen                                             543
+   2cm 2w                                               671
+   2gen 2gen                                            524
+   2gen 2w                                              651
+   4cm                                                  709
+   4gen                                                 597
+   4w                                                   925
+ALL CHECKS PASS

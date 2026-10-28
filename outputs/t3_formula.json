@@ -1,0 +1,634 @@
+{
+ "-|l=4": {
+  "hodge": 7,
+  "hmm_prim": 6,
+  "dim_prim": 6,
+  "delsarte": 7,
+  "agree": true
+ },
+ "F|l=1": {
+  "hodge": 7,
+  "hmm_prim": 6,
+  "dim_prim": 6,
+  "delsarte": 7,
+  "agree": true
+ },
+ "J|l=1": {
+  "hodge": 7,
+  "hmm_prim": 6,
+  "dim_prim": 6,
+  "delsarte": 7,
+  "agree": true
+ },
+ "-|l=6": {
+  "hodge": 21,
+  "hmm_prim": 20,
+  "dim_prim": 22,
+  "delsarte": 21,
+  "agree": true
+ },
+ "F|l=3": {
+  "hodge": 21,
+  "hmm_prim": 20,
+  "dim_prim": 22,
+  "delsarte": 21,
+  "agree": true
+ },
+ "J|l=3": {
+  "hodge": 19,
+  "hmm_prim": 20,
+  "dim_prim": 22,
+  "delsarte": 19,
+  "agree": true
+ },
+ "FF|l=0": {
+  "hodge": 21,
+  "hmm_prim": 20,
+  "dim_prim": 22,
+  "delsarte": 21,
+  "agree": true
+ },
+ "FJ|l=0": {
+  "hodge": 19,
+  "hmm_prim": 20,
+  "dim_prim": 22,
+  "delsarte": 19,
+  "agree": true
+ },
+ "JJ|l=0": {
+  "hodge": 21,
+  "hmm_prim": 20,
+  "dim_prim": 22,
+  "delsarte": 21,
+  "agree": true
+ },
+ "-|l=8": {
+  "hodge": 71,
+  "hmm_prim": 70,
+  "dim_prim": 86,
+  "delsarte": 71,
+  "agree": true
+ },
+ "F|l=5": {
+  "hodge": 71,
+  "hmm_prim": 70,
+  "dim_prim": 86,
+  "delsarte": 71,
+  "agree": true
+ },
+ "J|l=5": {
+  "hodge": 61,
+  "hmm_prim": 70,
+  "dim_prim": 86,
+  "delsarte": 61,
+  "agree": true
+ },
+ "FF|l=2": {
+  "hodge": 71,
+  "hmm_prim": 70,
+  "dim_prim": 86,
+  "delsarte": 71,
+  "agree": true
+ },
+ "FJ|l=2": {
+  "hodge": 61,
+  "hmm_prim": 70,
+  "dim_prim": 86,
+  "delsarte": 61,
+  "agree": true
+ },
+ "JJ|l=2": {
+  "hodge": 59,
+  "hmm_prim": 70,
+  "dim_prim": 86,
+  "delsarte": 59,
+  "agree": true
+ },
+ "-|l=10": {
+  "hodge": 253,
+  "hmm_prim": 252,
+  "dim_prim": 342,
+  "delsarte": 253,
+  "agree": true
+ },
+ "F|l=7": {
+  "hodge": 253,
+  "hmm_prim": 252,
+  "dim_prim": 342,
+  "delsarte": 253,
+  "agree": true
+ },
+ "J|l=7": {
+  "hodge": 211,
+  "hmm_prim": 252,
+  "dim_prim": 342,
+  "delsarte": 211,
+  "agree": true
+ },
+ "FF|l=4": {
+  "hodge": 253,
+  "hmm_prim": 252,
+  "dim_prim": 342,
+  "delsarte": 253,
+  "agree": true
+ },
+ "FJ|l=4": {
+  "hodge": 211,
+  "hmm_prim": 252,
+  "dim_prim": 342,
+  "delsarte": 211,
+  "agree": true
+ },
+ "JJ|l=4": {
+  "hodge": 193,
+  "hmm_prim": 252,
+  "dim_prim": 342,
+  "delsarte": 193,
+  "agree": true
+ },
+ "FFF|l=1": {
+  "hodge": 253,
+  "hmm_prim": 252,
+  "dim_prim": 342,
+  "delsarte": 253,
+  "agree": true
+ },
+ "FFJ|l=1": {
+  "hodge": 211,
+  "hmm_prim": 252,
+  "dim_prim": 342,
+  "delsarte": 211,
+  "agree": true
+ },
+ "FJJ|l=1": {
+  "hodge": 193,
+  "hmm_prim": 252,
+  "dim_prim": 342,
+  "delsarte": 193,
+  "agree": true
+ },
+ "JJJ|l=1": {
+  "hodge": 199,
+  "hmm_prim": 252,
+  "dim_prim": 342,
+  "delsarte": 199,
+  "agree": true
+ },
+ "-|l=12": {
+  "hodge": 925,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 925,
+  "agree": true
+ },
+ "F|l=9": {
+  "hodge": 925,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 925,
+  "agree": true
+ },
+ "J|l=9": {
+  "hodge": 757,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 757,
+  "agree": true
+ },
+ "FF|l=6": {
+  "hodge": 925,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 925,
+  "agree": true
+ },
+ "FJ|l=6": {
+  "hodge": 757,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 757,
+  "agree": true
+ },
+ "JJ|l=6": {
+  "hodge": 671,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 671,
+  "agree": true
+ },
+ "FFF|l=3": {
+  "hodge": 925,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 925,
+  "agree": true
+ },
+ "FFJ|l=3": {
+  "hodge": 757,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 757,
+  "agree": true
+ },
+ "FJJ|l=3": {
+  "hodge": 671,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 671,
+  "agree": true
+ },
+ "JJJ|l=3": {
+  "hodge": 649,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 649,
+  "agree": true
+ },
+ "FFFF|l=0": {
+  "hodge": 925,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 925,
+  "agree": true
+ },
+ "FFFJ|l=0": {
+  "hodge": 757,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 757,
+  "agree": true
+ },
+ "FFJJ|l=0": {
+  "hodge": 671,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 671,
+  "agree": true
+ },
+ "FJJJ|l=0": {
+  "hodge": 649,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 649,
+  "agree": true
+ },
+ "JJJJ|l=0": {
+  "hodge": 709,
+  "hmm_prim": 924,
+  "dim_prim": 1366,
+  "delsarte": 709,
+  "agree": true
+ },
+ "-|l=14": {
+  "hodge": 3433,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 3433,
+  "agree": true
+ },
+ "F|l=11": {
+  "hodge": 3433,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 3433,
+  "agree": true
+ },
+ "J|l=11": {
+  "hodge": 2773,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 2773,
+  "agree": true
+ },
+ "FF|l=8": {
+  "hodge": 3433,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 3433,
+  "agree": true
+ },
+ "FJ|l=8": {
+  "hodge": 2773,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 2773,
+  "agree": true
+ },
+ "JJ|l=8": {
+  "hodge": 2409,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 2409,
+  "agree": true
+ },
+ "FFF|l=5": {
+  "hodge": 3433,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 3433,
+  "agree": true
+ },
+ "FFJ|l=5": {
+  "hodge": 2773,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 2773,
+  "agree": true
+ },
+ "FJJ|l=5": {
+  "hodge": 2409,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 2409,
+  "agree": true
+ },
+ "JJJ|l=5": {
+  "hodge": 2251,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 2251,
+  "agree": true
+ },
+ "FFFF|l=2": {
+  "hodge": 3433,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 3433,
+  "agree": true
+ },
+ "FFFJ|l=2": {
+  "hodge": 2773,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 2773,
+  "agree": true
+ },
+ "FFJJ|l=2": {
+  "hodge": 2409,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 2409,
+  "agree": true
+ },
+ "FJJJ|l=2": {
+  "hodge": 2251,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 2251,
+  "agree": true
+ },
+ "JJJJ|l=2": {
+  "hodge": 2281,
+  "hmm_prim": 3432,
+  "dim_prim": 5462,
+  "delsarte": 2281,
+  "agree": true
+ },
+ "-|l=16": {
+  "hodge": 12871,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 12871,
+  "agree": true
+ },
+ "F|l=13": {
+  "hodge": 12871,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 12871,
+  "agree": true
+ },
+ "J|l=13": {
+  "hodge": 10297,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 10297,
+  "agree": true
+ },
+ "FF|l=10": {
+  "hodge": 12871,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 12871,
+  "agree": true
+ },
+ "FJ|l=10": {
+  "hodge": 10297,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 10297,
+  "agree": true
+ },
+ "JJ|l=10": {
+  "hodge": 8821,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 8821,
+  "agree": true
+ },
+ "FFF|l=7": {
+  "hodge": 12871,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 12871,
+  "agree": true
+ },
+ "FFJ|l=7": {
+  "hodge": 10297,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 10297,
+  "agree": true
+ },
+ "FJJ|l=7": {
+  "hodge": 8821,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 8821,
+  "agree": true
+ },
+ "JJJ|l=7": {
+  "hodge": 8065,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 8065,
+  "agree": true
+ },
+ "FFFF|l=4": {
+  "hodge": 12871,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 12871,
+  "agree": true
+ },
+ "FFFJ|l=4": {
+  "hodge": 10297,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 10297,
+  "agree": true
+ },
+ "FFJJ|l=4": {
+  "hodge": 8821,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 8821,
+  "agree": true
+ },
+ "FJJJ|l=4": {
+  "hodge": 8065,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 8065,
+  "agree": true
+ },
+ "JJJJ|l=4": {
+  "hodge": 7867,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 7867,
+  "agree": true
+ },
+ "FFFFF|l=1": {
+  "hodge": 12871,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 12871,
+  "agree": true
+ },
+ "FFFFJ|l=1": {
+  "hodge": 10297,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 10297,
+  "agree": true
+ },
+ "FFFJJ|l=1": {
+  "hodge": 8821,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 8821,
+  "agree": true
+ },
+ "FFJJJ|l=1": {
+  "hodge": 8065,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 8065,
+  "agree": true
+ },
+ "FJJJJ|l=1": {
+  "hodge": 7867,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 7867,
+  "agree": true
+ },
+ "JJJJJ|l=1": {
+  "hodge": 8281,
+  "hmm_prim": 12870,
+  "dim_prim": 21846,
+  "delsarte": 8281,
+  "agree": true
+ },
+ "control: E_1, E_2 not isogenous": {
+  "hodge": 19,
+  "hmm_prim": 20,
+  "dim_prim": 22,
+  "want": 19,
+  "source": "Koike Thm 1.7: transcendental rank 4, so 23 - 4 = 19",
+  "agree": true
+ },
+ "control: E_1 ~ E_2 without CM": {
+  "hodge": 20,
+  "hmm_prim": 20,
+  "dim_prim": 22,
+  "want": 20,
+  "source": "19 + rk Hom(E_1, E_2) = 20",
+  "agree": true
+ },
+ "control: E_1 ~ E_2 with CM": {
+  "hodge": 21,
+  "hmm_prim": 20,
+  "dim_prim": 22,
+  "want": 21,
+  "source": "Beauville (Koike Prop 1.6): maximal, h^{2,2} = 21",
+  "agree": true
+ },
+ "control: E_1 = E_2 = E_omega": {
+  "hodge": 21,
+  "hmm_prim": 20,
+  "dim_prim": 22,
+  "want": 21,
+  "source": "Fermat cubic fourfold: h^{2,2} = 21",
+  "agree": true
+ },
+ "control: E_1 ~ E_omega, E_2 no CM": {
+  "hodge": 19,
+  "hmm_prim": 20,
+  "dim_prim": 22,
+  "want": 19,
+  "source": "19 + 0",
+  "agree": true
+ },
+ "GH|l=0": {
+  "hodge": 19,
+  "hmm_prim": 20,
+  "dim_prim": 22
+ },
+ "GG|l=0": {
+  "hodge": 20,
+  "hmm_prim": 20,
+  "dim_prim": 22
+ },
+ "G|l=5": {
+  "hodge": 61,
+  "hmm_prim": 70,
+  "dim_prim": 86
+ },
+ "GH|l=2": {
+  "hodge": 55,
+  "hmm_prim": 70,
+  "dim_prim": 86
+ },
+ "GG|l=2": {
+  "hodge": 57,
+  "hmm_prim": 70,
+  "dim_prim": 86
+ },
+ "GHI|l=1": {
+  "hodge": 163,
+  "hmm_prim": 252,
+  "dim_prim": 342
+ },
+ "GGG|l=1": {
+  "hodge": 181,
+  "hmm_prim": 252,
+  "dim_prim": 342
+ },
+ "GHIL|l=0": {
+  "hodge": 487,
+  "hmm_prim": 924,
+  "dim_prim": 1366
+ },
+ "GGHH|l=0": {
+  "hodge": 524,
+  "hmm_prim": 924,
+  "dim_prim": 1366
+ },
+ "GGGG|l=0": {
+  "hodge": 597,
+  "hmm_prim": 924,
+  "dim_prim": 1366
+ },
+ "GHI|l=3": {
+  "hodge": 541,
+  "hmm_prim": 924,
+  "dim_prim": 1366
+ },
+ "G|l=9": {
+  "hodge": 757,
+  "hmm_prim": 924,
+  "dim_prim": 1366
+ }
+}

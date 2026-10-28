@@ -1,0 +1,1544 @@
+{
+ "-|l=4": {
+  "N": 4,
+  "k": 0,
+  "l": 4,
+  "delsarte": {
+   "hodge": 7,
+   "prim": 6,
+   "hmm_prim": 6,
+   "dimR": 16,
+   "D": 3
+  },
+  "model": {
+   "hodge": 7,
+   "prim": 6,
+   "hmm_prim": 6,
+   "dim_prim": 6
+  },
+  "agree": true
+ },
+ "F|l=1": {
+  "N": 4,
+  "k": 1,
+  "l": 1,
+  "delsarte": {
+   "hodge": 7,
+   "prim": 6,
+   "hmm_prim": 6,
+   "dimR": 16,
+   "D": 3
+  },
+  "model": {
+   "hodge": 7,
+   "prim": 6,
+   "hmm_prim": 6,
+   "dim_prim": 6
+  },
+  "agree": true
+ },
+ "J|l=1": {
+  "N": 4,
+  "k": 1,
+  "l": 1,
+  "delsarte": {
+   "hodge": 7,
+   "prim": 6,
+   "hmm_prim": 6,
+   "dimR": 16,
+   "D": 12
+  },
+  "model": {
+   "hodge": 7,
+   "prim": 6,
+   "hmm_prim": 6,
+   "dim_prim": 6
+  },
+  "agree": true
+ },
+ "-|l=6": {
+  "N": 6,
+  "k": 0,
+  "l": 6,
+  "delsarte": {
+   "hodge": 21,
+   "prim": 20,
+   "hmm_prim": 20,
+   "dimR": 64,
+   "D": 3
+  },
+  "model": {
+   "hodge": 21,
+   "prim": 20,
+   "hmm_prim": 20,
+   "dim_prim": 22
+  },
+  "agree": true
+ },
+ "F|l=3": {
+  "N": 6,
+  "k": 1,
+  "l": 3,
+  "delsarte": {
+   "hodge": 21,
+   "prim": 20,
+   "hmm_prim": 20,
+   "dimR": 64,
+   "D": 3
+  },
+  "model": {
+   "hodge": 21,
+   "prim": 20,
+   "hmm_prim": 20,
+   "dim_prim": 22
+  },
+  "agree": true
+ },
+ "J|l=3": {
+  "N": 6,
+  "k": 1,
+  "l": 3,
+  "delsarte": {
+   "hodge": 19,
+   "prim": 18,
+   "hmm_prim": 20,
+   "dimR": 64,
+   "D": 12
+  },
+  "model": {
+   "hodge": 19,
+   "prim": 18,
+   "hmm_prim": 20,
+   "dim_prim": 22
+  },
+  "agree": true
+ },
+ "FF|l=0": {
+  "N": 6,
+  "k": 2,
+  "l": 0,
+  "delsarte": {
+   "hodge": 21,
+   "prim": 20,
+   "hmm_prim": 20,
+   "dimR": 64,
+   "D": 3
+  },
+  "model": {
+   "hodge": 21,
+   "prim": 20,
+   "hmm_prim": 20,
+   "dim_prim": 22
+  },
+  "agree": true
+ },
+ "FJ|l=0": {
+  "N": 6,
+  "k": 2,
+  "l": 0,
+  "delsarte": {
+   "hodge": 19,
+   "prim": 18,
+   "hmm_prim": 20,
+   "dimR": 64,
+   "D": 12
+  },
+  "model": {
+   "hodge": 19,
+   "prim": 18,
+   "hmm_prim": 20,
+   "dim_prim": 22
+  },
+  "agree": true
+ },
+ "JJ|l=0": {
+  "N": 6,
+  "k": 2,
+  "l": 0,
+  "delsarte": {
+   "hodge": 21,
+   "prim": 20,
+   "hmm_prim": 20,
+   "dimR": 64,
+   "D": 12
+  },
+  "model": {
+   "hodge": 21,
+   "prim": 20,
+   "hmm_prim": 20,
+   "dim_prim": 22
+  },
+  "agree": true
+ },
+ "-|l=8": {
+  "N": 8,
+  "k": 0,
+  "l": 8,
+  "delsarte": {
+   "hodge": 71,
+   "prim": 70,
+   "hmm_prim": 70,
+   "dimR": 256,
+   "D": 3
+  },
+  "model": {
+   "hodge": 71,
+   "prim": 70,
+   "hmm_prim": 70,
+   "dim_prim": 86
+  },
+  "agree": true
+ },
+ "F|l=5": {
+  "N": 8,
+  "k": 1,
+  "l": 5,
+  "delsarte": {
+   "hodge": 71,
+   "prim": 70,
+   "hmm_prim": 70,
+   "dimR": 256,
+   "D": 3
+  },
+  "model": {
+   "hodge": 71,
+   "prim": 70,
+   "hmm_prim": 70,
+   "dim_prim": 86
+  },
+  "agree": true
+ },
+ "J|l=5": {
+  "N": 8,
+  "k": 1,
+  "l": 5,
+  "delsarte": {
+   "hodge": 61,
+   "prim": 60,
+   "hmm_prim": 70,
+   "dimR": 256,
+   "D": 12
+  },
+  "model": {
+   "hodge": 61,
+   "prim": 60,
+   "hmm_prim": 70,
+   "dim_prim": 86
+  },
+  "agree": true
+ },
+ "FF|l=2": {
+  "N": 8,
+  "k": 2,
+  "l": 2,
+  "delsarte": {
+   "hodge": 71,
+   "prim": 70,
+   "hmm_prim": 70,
+   "dimR": 256,
+   "D": 3
+  },
+  "model": {
+   "hodge": 71,
+   "prim": 70,
+   "hmm_prim": 70,
+   "dim_prim": 86
+  },
+  "agree": true
+ },
+ "FJ|l=2": {
+  "N": 8,
+  "k": 2,
+  "l": 2,
+  "delsarte": {
+   "hodge": 61,
+   "prim": 60,
+   "hmm_prim": 70,
+   "dimR": 256,
+   "D": 12
+  },
+  "model": {
+   "hodge": 61,
+   "prim": 60,
+   "hmm_prim": 70,
+   "dim_prim": 86
+  },
+  "agree": true
+ },
+ "JJ|l=2": {
+  "N": 8,
+  "k": 2,
+  "l": 2,
+  "delsarte": {
+   "hodge": 59,
+   "prim": 58,
+   "hmm_prim": 70,
+   "dimR": 256,
+   "D": 12
+  },
+  "model": {
+   "hodge": 59,
+   "prim": 58,
+   "hmm_prim": 70,
+   "dim_prim": 86
+  },
+  "agree": true
+ },
+ "-|l=10": {
+  "N": 10,
+  "k": 0,
+  "l": 10,
+  "delsarte": {
+   "hodge": 253,
+   "prim": 252,
+   "hmm_prim": 252,
+   "dimR": 1024,
+   "D": 3
+  },
+  "model": {
+   "hodge": 253,
+   "prim": 252,
+   "hmm_prim": 252,
+   "dim_prim": 342
+  },
+  "agree": true
+ },
+ "F|l=7": {
+  "N": 10,
+  "k": 1,
+  "l": 7,
+  "delsarte": {
+   "hodge": 253,
+   "prim": 252,
+   "hmm_prim": 252,
+   "dimR": 1024,
+   "D": 3
+  },
+  "model": {
+   "hodge": 253,
+   "prim": 252,
+   "hmm_prim": 252,
+   "dim_prim": 342
+  },
+  "agree": true
+ },
+ "J|l=7": {
+  "N": 10,
+  "k": 1,
+  "l": 7,
+  "delsarte": {
+   "hodge": 211,
+   "prim": 210,
+   "hmm_prim": 252,
+   "dimR": 1024,
+   "D": 12
+  },
+  "model": {
+   "hodge": 211,
+   "prim": 210,
+   "hmm_prim": 252,
+   "dim_prim": 342
+  },
+  "agree": true
+ },
+ "FF|l=4": {
+  "N": 10,
+  "k": 2,
+  "l": 4,
+  "delsarte": {
+   "hodge": 253,
+   "prim": 252,
+   "hmm_prim": 252,
+   "dimR": 1024,
+   "D": 3
+  },
+  "model": {
+   "hodge": 253,
+   "prim": 252,
+   "hmm_prim": 252,
+   "dim_prim": 342
+  },
+  "agree": true
+ },
+ "FJ|l=4": {
+  "N": 10,
+  "k": 2,
+  "l": 4,
+  "delsarte": {
+   "hodge": 211,
+   "prim": 210,
+   "hmm_prim": 252,
+   "dimR": 1024,
+   "D": 12
+  },
+  "model": {
+   "hodge": 211,
+   "prim": 210,
+   "hmm_prim": 252,
+   "dim_prim": 342
+  },
+  "agree": true
+ },
+ "JJ|l=4": {
+  "N": 10,
+  "k": 2,
+  "l": 4,
+  "delsarte": {
+   "hodge": 193,
+   "prim": 192,
+   "hmm_prim": 252,
+   "dimR": 1024,
+   "D": 12
+  },
+  "model": {
+   "hodge": 193,
+   "prim": 192,
+   "hmm_prim": 252,
+   "dim_prim": 342
+  },
+  "agree": true
+ },
+ "FFF|l=1": {
+  "N": 10,
+  "k": 3,
+  "l": 1,
+  "delsarte": {
+   "hodge": 253,
+   "prim": 252,
+   "hmm_prim": 252,
+   "dimR": 1024,
+   "D": 3
+  },
+  "model": {
+   "hodge": 253,
+   "prim": 252,
+   "hmm_prim": 252,
+   "dim_prim": 342
+  },
+  "agree": true
+ },
+ "FFJ|l=1": {
+  "N": 10,
+  "k": 3,
+  "l": 1,
+  "delsarte": {
+   "hodge": 211,
+   "prim": 210,
+   "hmm_prim": 252,
+   "dimR": 1024,
+   "D": 12
+  },
+  "model": {
+   "hodge": 211,
+   "prim": 210,
+   "hmm_prim": 252,
+   "dim_prim": 342
+  },
+  "agree": true
+ },
+ "FJJ|l=1": {
+  "N": 10,
+  "k": 3,
+  "l": 1,
+  "delsarte": {
+   "hodge": 193,
+   "prim": 192,
+   "hmm_prim": 252,
+   "dimR": 1024,
+   "D": 12
+  },
+  "model": {
+   "hodge": 193,
+   "prim": 192,
+   "hmm_prim": 252,
+   "dim_prim": 342
+  },
+  "agree": true
+ },
+ "JJJ|l=1": {
+  "N": 10,
+  "k": 3,
+  "l": 1,
+  "delsarte": {
+   "hodge": 199,
+   "prim": 198,
+   "hmm_prim": 252,
+   "dimR": 1024,
+   "D": 12
+  },
+  "model": {
+   "hodge": 199,
+   "prim": 198,
+   "hmm_prim": 252,
+   "dim_prim": 342
+  },
+  "agree": true
+ },
+ "-|l=12": {
+  "N": 12,
+  "k": 0,
+  "l": 12,
+  "delsarte": {
+   "hodge": 925,
+   "prim": 924,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 3
+  },
+  "model": {
+   "hodge": 925,
+   "prim": 924,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "F|l=9": {
+  "N": 12,
+  "k": 1,
+  "l": 9,
+  "delsarte": {
+   "hodge": 925,
+   "prim": 924,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 3
+  },
+  "model": {
+   "hodge": 925,
+   "prim": 924,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "J|l=9": {
+  "N": 12,
+  "k": 1,
+  "l": 9,
+  "delsarte": {
+   "hodge": 757,
+   "prim": 756,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 12
+  },
+  "model": {
+   "hodge": 757,
+   "prim": 756,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "FF|l=6": {
+  "N": 12,
+  "k": 2,
+  "l": 6,
+  "delsarte": {
+   "hodge": 925,
+   "prim": 924,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 3
+  },
+  "model": {
+   "hodge": 925,
+   "prim": 924,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "FJ|l=6": {
+  "N": 12,
+  "k": 2,
+  "l": 6,
+  "delsarte": {
+   "hodge": 757,
+   "prim": 756,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 12
+  },
+  "model": {
+   "hodge": 757,
+   "prim": 756,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "JJ|l=6": {
+  "N": 12,
+  "k": 2,
+  "l": 6,
+  "delsarte": {
+   "hodge": 671,
+   "prim": 670,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 12
+  },
+  "model": {
+   "hodge": 671,
+   "prim": 670,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "FFF|l=3": {
+  "N": 12,
+  "k": 3,
+  "l": 3,
+  "delsarte": {
+   "hodge": 925,
+   "prim": 924,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 3
+  },
+  "model": {
+   "hodge": 925,
+   "prim": 924,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "FFJ|l=3": {
+  "N": 12,
+  "k": 3,
+  "l": 3,
+  "delsarte": {
+   "hodge": 757,
+   "prim": 756,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 12
+  },
+  "model": {
+   "hodge": 757,
+   "prim": 756,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "FJJ|l=3": {
+  "N": 12,
+  "k": 3,
+  "l": 3,
+  "delsarte": {
+   "hodge": 671,
+   "prim": 670,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 12
+  },
+  "model": {
+   "hodge": 671,
+   "prim": 670,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "JJJ|l=3": {
+  "N": 12,
+  "k": 3,
+  "l": 3,
+  "delsarte": {
+   "hodge": 649,
+   "prim": 648,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 12
+  },
+  "model": {
+   "hodge": 649,
+   "prim": 648,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "FFFF|l=0": {
+  "N": 12,
+  "k": 4,
+  "l": 0,
+  "delsarte": {
+   "hodge": 925,
+   "prim": 924,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 3
+  },
+  "model": {
+   "hodge": 925,
+   "prim": 924,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "FFFJ|l=0": {
+  "N": 12,
+  "k": 4,
+  "l": 0,
+  "delsarte": {
+   "hodge": 757,
+   "prim": 756,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 12
+  },
+  "model": {
+   "hodge": 757,
+   "prim": 756,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "FFJJ|l=0": {
+  "N": 12,
+  "k": 4,
+  "l": 0,
+  "delsarte": {
+   "hodge": 671,
+   "prim": 670,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 12
+  },
+  "model": {
+   "hodge": 671,
+   "prim": 670,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "FJJJ|l=0": {
+  "N": 12,
+  "k": 4,
+  "l": 0,
+  "delsarte": {
+   "hodge": 649,
+   "prim": 648,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 12
+  },
+  "model": {
+   "hodge": 649,
+   "prim": 648,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "JJJJ|l=0": {
+  "N": 12,
+  "k": 4,
+  "l": 0,
+  "delsarte": {
+   "hodge": 709,
+   "prim": 708,
+   "hmm_prim": 924,
+   "dimR": 4096,
+   "D": 12
+  },
+  "model": {
+   "hodge": 709,
+   "prim": 708,
+   "hmm_prim": 924,
+   "dim_prim": 1366
+  },
+  "agree": true
+ },
+ "-|l=14": {
+  "N": 14,
+  "k": 0,
+  "l": 14,
+  "delsarte": {
+   "hodge": 3433,
+   "prim": 3432,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 3
+  },
+  "model": {
+   "hodge": 3433,
+   "prim": 3432,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "F|l=11": {
+  "N": 14,
+  "k": 1,
+  "l": 11,
+  "delsarte": {
+   "hodge": 3433,
+   "prim": 3432,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 3
+  },
+  "model": {
+   "hodge": 3433,
+   "prim": 3432,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "J|l=11": {
+  "N": 14,
+  "k": 1,
+  "l": 11,
+  "delsarte": {
+   "hodge": 2773,
+   "prim": 2772,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 12
+  },
+  "model": {
+   "hodge": 2773,
+   "prim": 2772,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "FF|l=8": {
+  "N": 14,
+  "k": 2,
+  "l": 8,
+  "delsarte": {
+   "hodge": 3433,
+   "prim": 3432,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 3
+  },
+  "model": {
+   "hodge": 3433,
+   "prim": 3432,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "FJ|l=8": {
+  "N": 14,
+  "k": 2,
+  "l": 8,
+  "delsarte": {
+   "hodge": 2773,
+   "prim": 2772,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 12
+  },
+  "model": {
+   "hodge": 2773,
+   "prim": 2772,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "JJ|l=8": {
+  "N": 14,
+  "k": 2,
+  "l": 8,
+  "delsarte": {
+   "hodge": 2409,
+   "prim": 2408,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 12
+  },
+  "model": {
+   "hodge": 2409,
+   "prim": 2408,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "FFF|l=5": {
+  "N": 14,
+  "k": 3,
+  "l": 5,
+  "delsarte": {
+   "hodge": 3433,
+   "prim": 3432,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 3
+  },
+  "model": {
+   "hodge": 3433,
+   "prim": 3432,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "FFJ|l=5": {
+  "N": 14,
+  "k": 3,
+  "l": 5,
+  "delsarte": {
+   "hodge": 2773,
+   "prim": 2772,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 12
+  },
+  "model": {
+   "hodge": 2773,
+   "prim": 2772,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "FJJ|l=5": {
+  "N": 14,
+  "k": 3,
+  "l": 5,
+  "delsarte": {
+   "hodge": 2409,
+   "prim": 2408,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 12
+  },
+  "model": {
+   "hodge": 2409,
+   "prim": 2408,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "JJJ|l=5": {
+  "N": 14,
+  "k": 3,
+  "l": 5,
+  "delsarte": {
+   "hodge": 2251,
+   "prim": 2250,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 12
+  },
+  "model": {
+   "hodge": 2251,
+   "prim": 2250,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "FFFF|l=2": {
+  "N": 14,
+  "k": 4,
+  "l": 2,
+  "delsarte": {
+   "hodge": 3433,
+   "prim": 3432,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 3
+  },
+  "model": {
+   "hodge": 3433,
+   "prim": 3432,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "FFFJ|l=2": {
+  "N": 14,
+  "k": 4,
+  "l": 2,
+  "delsarte": {
+   "hodge": 2773,
+   "prim": 2772,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 12
+  },
+  "model": {
+   "hodge": 2773,
+   "prim": 2772,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "FFJJ|l=2": {
+  "N": 14,
+  "k": 4,
+  "l": 2,
+  "delsarte": {
+   "hodge": 2409,
+   "prim": 2408,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 12
+  },
+  "model": {
+   "hodge": 2409,
+   "prim": 2408,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "FJJJ|l=2": {
+  "N": 14,
+  "k": 4,
+  "l": 2,
+  "delsarte": {
+   "hodge": 2251,
+   "prim": 2250,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 12
+  },
+  "model": {
+   "hodge": 2251,
+   "prim": 2250,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "JJJJ|l=2": {
+  "N": 14,
+  "k": 4,
+  "l": 2,
+  "delsarte": {
+   "hodge": 2281,
+   "prim": 2280,
+   "hmm_prim": 3432,
+   "dimR": 16384,
+   "D": 12
+  },
+  "model": {
+   "hodge": 2281,
+   "prim": 2280,
+   "hmm_prim": 3432,
+   "dim_prim": 5462
+  },
+  "agree": true
+ },
+ "-|l=16": {
+  "N": 16,
+  "k": 0,
+  "l": 16,
+  "delsarte": {
+   "hodge": 12871,
+   "prim": 12870,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 3
+  },
+  "model": {
+   "hodge": 12871,
+   "prim": 12870,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "F|l=13": {
+  "N": 16,
+  "k": 1,
+  "l": 13,
+  "delsarte": {
+   "hodge": 12871,
+   "prim": 12870,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 3
+  },
+  "model": {
+   "hodge": 12871,
+   "prim": 12870,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "J|l=13": {
+  "N": 16,
+  "k": 1,
+  "l": 13,
+  "delsarte": {
+   "hodge": 10297,
+   "prim": 10296,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 10297,
+   "prim": 10296,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "FF|l=10": {
+  "N": 16,
+  "k": 2,
+  "l": 10,
+  "delsarte": {
+   "hodge": 12871,
+   "prim": 12870,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 3
+  },
+  "model": {
+   "hodge": 12871,
+   "prim": 12870,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "FJ|l=10": {
+  "N": 16,
+  "k": 2,
+  "l": 10,
+  "delsarte": {
+   "hodge": 10297,
+   "prim": 10296,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 10297,
+   "prim": 10296,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "JJ|l=10": {
+  "N": 16,
+  "k": 2,
+  "l": 10,
+  "delsarte": {
+   "hodge": 8821,
+   "prim": 8820,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 8821,
+   "prim": 8820,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "FFF|l=7": {
+  "N": 16,
+  "k": 3,
+  "l": 7,
+  "delsarte": {
+   "hodge": 12871,
+   "prim": 12870,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 3
+  },
+  "model": {
+   "hodge": 12871,
+   "prim": 12870,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "FFJ|l=7": {
+  "N": 16,
+  "k": 3,
+  "l": 7,
+  "delsarte": {
+   "hodge": 10297,
+   "prim": 10296,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 10297,
+   "prim": 10296,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "FJJ|l=7": {
+  "N": 16,
+  "k": 3,
+  "l": 7,
+  "delsarte": {
+   "hodge": 8821,
+   "prim": 8820,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 8821,
+   "prim": 8820,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "JJJ|l=7": {
+  "N": 16,
+  "k": 3,
+  "l": 7,
+  "delsarte": {
+   "hodge": 8065,
+   "prim": 8064,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 8065,
+   "prim": 8064,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "FFFF|l=4": {
+  "N": 16,
+  "k": 4,
+  "l": 4,
+  "delsarte": {
+   "hodge": 12871,
+   "prim": 12870,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 3
+  },
+  "model": {
+   "hodge": 12871,
+   "prim": 12870,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "FFFJ|l=4": {
+  "N": 16,
+  "k": 4,
+  "l": 4,
+  "delsarte": {
+   "hodge": 10297,
+   "prim": 10296,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 10297,
+   "prim": 10296,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "FFJJ|l=4": {
+  "N": 16,
+  "k": 4,
+  "l": 4,
+  "delsarte": {
+   "hodge": 8821,
+   "prim": 8820,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 8821,
+   "prim": 8820,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "FJJJ|l=4": {
+  "N": 16,
+  "k": 4,
+  "l": 4,
+  "delsarte": {
+   "hodge": 8065,
+   "prim": 8064,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 8065,
+   "prim": 8064,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "JJJJ|l=4": {
+  "N": 16,
+  "k": 4,
+  "l": 4,
+  "delsarte": {
+   "hodge": 7867,
+   "prim": 7866,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 7867,
+   "prim": 7866,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "FFFFF|l=1": {
+  "N": 16,
+  "k": 5,
+  "l": 1,
+  "delsarte": {
+   "hodge": 12871,
+   "prim": 12870,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 3
+  },
+  "model": {
+   "hodge": 12871,
+   "prim": 12870,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "FFFFJ|l=1": {
+  "N": 16,
+  "k": 5,
+  "l": 1,
+  "delsarte": {
+   "hodge": 10297,
+   "prim": 10296,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 10297,
+   "prim": 10296,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "FFFJJ|l=1": {
+  "N": 16,
+  "k": 5,
+  "l": 1,
+  "delsarte": {
+   "hodge": 8821,
+   "prim": 8820,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 8821,
+   "prim": 8820,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "FFJJJ|l=1": {
+  "N": 16,
+  "k": 5,
+  "l": 1,
+  "delsarte": {
+   "hodge": 8065,
+   "prim": 8064,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 8065,
+   "prim": 8064,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "FJJJJ|l=1": {
+  "N": 16,
+  "k": 5,
+  "l": 1,
+  "delsarte": {
+   "hodge": 7867,
+   "prim": 7866,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 7867,
+   "prim": 7866,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "JJJJJ|l=1": {
+  "N": 16,
+  "k": 5,
+  "l": 1,
+  "delsarte": {
+   "hodge": 8281,
+   "prim": 8280,
+   "hmm_prim": 12870,
+   "dimR": 65536,
+   "D": 12
+  },
+  "model": {
+   "hodge": 8281,
+   "prim": 8280,
+   "hmm_prim": 12870,
+   "dim_prim": 21846
+  },
+  "agree": true
+ },
+ "fermat_N4": {
+  "shioda": {
+   "hodge": 7,
+   "prim": 6,
+   "hmm_prim": 6
+  },
+  "model_all_F": [
+   7,
+   7
+  ],
+  "agree": true
+ },
+ "fermat_N6": {
+  "shioda": {
+   "hodge": 21,
+   "prim": 20,
+   "hmm_prim": 20
+  },
+  "model_all_F": [
+   21,
+   21,
+   21
+  ],
+  "agree": true
+ },
+ "fermat_N8": {
+  "shioda": {
+   "hodge": 71,
+   "prim": 70,
+   "hmm_prim": 70
+  },
+  "model_all_F": [
+   71,
+   71,
+   71
+  ],
+  "agree": true
+ },
+ "fermat_N10": {
+  "shioda": {
+   "hodge": 253,
+   "prim": 252,
+   "hmm_prim": 252
+  },
+  "model_all_F": [
+   253,
+   253,
+   253,
+   253
+  ],
+  "agree": true
+ },
+ "fermat_N12": {
+  "shioda": {
+   "hodge": 925,
+   "prim": 924,
+   "hmm_prim": 924
+  },
+  "model_all_F": [
+   925,
+   925,
+   925,
+   925,
+   925
+  ],
+  "agree": true
+ },
+ "fermat_N14": {
+  "shioda": {
+   "hodge": 3433,
+   "prim": 3432,
+   "hmm_prim": 3432
+  },
+  "model_all_F": [
+   3433,
+   3433,
+   3433,
+   3433,
+   3433
+  ],
+  "agree": true
+ },
+ "fermat_N16": {
+  "shioda": {
+   "hodge": 12871,
+   "prim": 12870,
+   "hmm_prim": 12870
+  },
+  "model_all_F": [
+   12871,
+   12871,
+   12871,
+   12871,
+   12871,
+   12871
+  ],
+  "agree": true
+ }
+}

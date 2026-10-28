@@ -1,0 +1,77 @@
+(1)+(2) Jacobian rings over F_10007, 3 random quinary H: Hilbert functions (1+t)^5, (1+t)^6; eigenspaces (omega, omega^2) of H^(3,1), H^(2,2)_prim, H^(1,3) of Z_H = (1,0), (10,10), (0,1); signature (10,1) on each eigenspace; h^(2,1)(Y_H) = h^(1,2) = 5; local Torelli ranks 10, 10, 10 -- ok
+    {"trial": 0, "hilbert_H": [1, 5, 10, 10, 5, 1, 0], "hilbert_ZH": [1, 6, 15, 20, 15, 6, 1, 0], "eigen_dims_omega_omega2": {"H^(3,1)": [1, 0], "H^(2,2)": [10, 10], "H^(1,3)": [0, 1], "H^(0,4)": [0, 0]}, "signature_omega": [10, 1], "signature_omega2": [10, 1], "Y_H": {"h21": 5, "h12": 5}, "torelli_rank_31_to_22": 10, "torelli_rank_22_to_13": 10, "torelli_rank_total": 10, "ok": true}
+    {"trial": 1, "hilbert_H": [1, 5, 10, 10, 5, 1, 0], "hilbert_ZH": [1, 6, 15, 20, 15, 6, 1, 0], "eigen_dims_omega_omega2": {"H^(3,1)": [1, 0], "H^(2,2)": [10, 10], "H^(1,3)": [0, 1], "H^(0,4)": [0, 0]}, "signature_omega": [10, 1], "signature_omega2": [10, 1], "Y_H": {"h21": 5, "h12": 5}, "torelli_rank_31_to_22": 10, "torelli_rank_22_to_13": 10, "torelli_rank_total": 10, "ok": true}
+    {"trial": 2, "hilbert_H": [1, 5, 10, 10, 5, 1, 0], "hilbert_ZH": [1, 6, 15, 20, 15, 6, 1, 0], "eigen_dims_omega_omega2": {"H^(3,1)": [1, 0], "H^(2,2)": [10, 10], "H^(1,3)": [0, 1], "H^(0,4)": [0, 0]}, "signature_omega": [10, 1], "signature_omega2": [10, 1], "Y_H": {"h21": 5, "h12": 5}, "torelli_rank_31_to_22": 10, "torelli_rank_22_to_13": 10, "torelli_rank_total": 10, "ok": true}
+(3) block table (a, dim, character, excess); quinary: chi 0 = H^3(Y_H) (weights -+1/2), chi 1 = Ubar (x) mu, chi 2 = U (x) mu-bar, mu = -1/6; excess of wedge^11 of the chi-1 piece = -5/6; totals (2^N+2)/3 and binom(N,N/2) with blocks of 1,3,4,5 variables, N <= 18 -- ok
+    n = 1: [(0, 1, 1, '-1/6'), (1, 1, 2, '1/6')]
+    n = 3: [(0, 1, 0, '-1/2'), (1, 3, 1, '-1/6'), (2, 3, 2, '1/6'), (3, 1, 0, '1/2')]
+    n = 4: [(0, 1, 1, '-2/3'), (1, 4, 2, '-1/3'), (2, 6, 0, '0'), (3, 4, 1, '1/3'), (4, 1, 2, '2/3')]
+    n = 5: [(0, 1, 2, '-5/6'), (1, 5, 0, '-1/2'), (2, 10, 1, '-1/6'), (3, 10, 2, '1/6'), (4, 5, 0, '1/2'), (5, 1, 1, '5/6')]
+(4) SL_n invariants by Schur-Weyl (= t5 weight count for n = 5, a+b <= 8); SL_11: only contractions for a+b <= 10, I(11,0) = 1, I(12,1) = 11; Sp_10: (r-1)!! for r <= 10, 10394 for r = 12 -- ok
+    SL11 I(0,0) = 1, SL11 I(0,11) = 1, SL11 I(1,1) = 1, SL11 I(1,12) = 11, SL11 I(2,2) = 2, SL11 I(3,3) = 6, SL11 I(4,4) = 24, SL11 I(5,5) = 120, SL11 I(6,6) = 720, SL11 I(7,7) = 5040, SL11 I(8,8) = 40320, SL11 I(9,9) = 362880, SL11 I(10,10) = 3628800, SL11 I(11,0) = 1, SL11 I(11,11) = 39916800, SL11 I(12,1) = 11, SL11 I(12,12) = 479001599, Sp10 J(0) = 1, Sp10 J(2) = 1, Sp10 J(4) = 3, Sp10 J(6) = 15, Sp10 J(8) = 105, Sp10 J(10) = 945, Sp10 J(12) = 10394, Sp10 J(14) = 135057
+(5a) Hodge-class count with quinary blocks: per character = counts, dim H_prim = (2^N+2)/3, (m,m)-part = binom(N,N/2); = t5 on 233 configurations without quinary blocks -- ok
+    [ternary | quaternary classes | quinary classes | l]  (equal letters = equal block)
+    [||H|l=1]                                dim  4: Hdg              1  SU(11)-det part   0  ok
+    [||H|l=3]                                dim  6: Hdg              1  SU(11)-det part   0  ok
+    [||H|l=5]                                dim  8: Hdg              1  SU(11)-det part   0  ok
+    [w||H|l=0]                               dim  6: Hdg              1  SU(11)-det part   0  ok
+    [E0||H|l=0]                              dim  6: Hdg              1  SU(11)-det part   0  ok
+    [|G|H|l=1]                               dim  8: Hdg              1  SU(11)-det part   0  ok
+    [||H,H|l=0]                              dim  8: Hdg              4  SU(11)-det part   0  ok
+    [||H,K|l=0]                              dim  8: Hdg              1  SU(11)-det part   0  ok
+    [||H,H|l=2]                              dim 10: Hdg              7  SU(11)-det part   0  ok
+    [||H,K|l=2]                              dim 10: Hdg              1  SU(11)-det part   0  ok
+    [w||H,H|l=1]                             dim 12: Hdg             19  SU(11)-det part   0  ok
+    [|G,G|H|l=1]                             dim 12: Hdg              1  SU(11)-det part   0  ok
+    [ww||H|l=1]                              dim 10: Hdg              1  SU(11)-det part   0  ok
+    [||H,H,H|l=1]                            dim 14: Hdg              1  SU(11)-det part   0  ok
+    [||H,H,K|l=1]                            dim 14: Hdg              1  SU(11)-det part   0  ok
+    [||H,H,H,H|l=0]                          dim 18: Hdg             28  SU(11)-det part   0  ok
+    [||H,H|l=4]                              dim 12: Hdg             19  SU(11)-det part   0  ok
+    [E0E0||H,H|l=0]                          dim 14: Hdg             58  SU(11)-det part   0  ok
+    [|G|H,H|l=2]                             dim 14: Hdg             37  SU(11)-det part   0  ok
+    [||H,H,H,H,H|l=1]                        dim 24: Hdg              1  SU(11)-det part   0  ok
+    [||H,H,H,H,H,H,H,H,H,H|l=0]              dim 48: Hdg         229636  SU(11)-det part   0  ok
+    [||H,H,H,H,H,H,H,H,H,H|l=2]              dim 50: Hdg         459271  SU(11)-det part   0  ok
+    [||H,H,H,H,H,H,H,H,H,H,H|l=1]            dim 54: Hdg              1  SU(11)-det part   0  ok
+    [||H,H,H,H,H,H,H,H,H,H,H|l=3]            dim 56: Hdg              1  SU(11)-det part   0  ok
+    [||H,H,H,H,H,H,H,H,H,H,H|l=5]            dim 58: Hdg              3  SU(11)-det part   2  ok
+    [w||H,H,H,H,H,H,H,H,H,H,H|l=2]           dim 58: Hdg              3  SU(11)-det part   2  ok
+    [||H,H,H,H,H,H,H,H,H,H,H,K,K,K,K,K,K,K,K,K,K,K|l=0] dim 108: Hdg              3  SU(11)-det part   2  ok
+    [|G,G,G,G|H,H,H,H,H,H,H,H,H,H|l=0]       dim 64: Hdg      399564901  SU(11)-det part   0  ok
+(5b) specialisation H -> G + u^3 and H -> F + u^3 + v^3 never lowers dim Hdg (28 cases) -- ok
+    {"case": "[||H|l=1]", "generic": 1, "to_G": 13, "to_Fermat": 21, "to_generic_F": 19, "ok": true}
+    {"case": "[||H|l=3]", "generic": 1, "to_G": 37, "to_Fermat": 71, "to_generic_F": 61, "ok": true}
+    {"case": "[||H|l=5]", "generic": 1, "to_G": 121, "to_Fermat": 253, "to_generic_F": 211, "ok": true}
+    {"case": "[w||H|l=0]", "generic": 1, "to_G": 37, "to_Fermat": 71, "to_generic_F": 61, "ok": true}
+    {"case": "[E0||H|l=0]", "generic": 1, "to_G": 37, "to_Fermat": 61, "to_generic_F": 55, "ok": true}
+    {"case": "[|G|H|l=1]", "generic": 1, "to_G": 73, "to_Fermat": 121, "to_generic_F": 109, "ok": true}
+    {"case": "[||H,H|l=0]", "generic": 4, "to_G": 77, "to_Fermat": 253, "to_generic_F": 187, "ok": true}
+    {"case": "[||H,K|l=0]", "generic": 1, "to_G": 73, "to_Fermat": 253, "to_generic_F": 181, "ok": true}
+    {"case": "[||H,H|l=2]", "generic": 7, "to_G": 229, "to_Fermat": 925, "to_generic_F": 651, "ok": true}
+    {"case": "[||H,K|l=2]", "generic": 1, "to_G": 217, "to_Fermat": 925, "to_generic_F": 631, "ok": true}
+    {"case": "[w||H,H|l=1]", "generic": 19, "to_G": 761, "to_Fermat": 3433, "to_generic_F": 2339, "ok": true}
+    {"case": "[|G,G|H|l=1]", "generic": 1, "to_G": 457, "to_Fermat": 761, "to_generic_F": 685, "ok": true}
+    {"case": "[ww||H|l=1]", "generic": 1, "to_G": 421, "to_Fermat": 925, "to_generic_F": 757, "ok": true}
+    {"case": "[||H,H,H|l=1]", "generic": 1, "to_G": 1513, "to_Fermat": 12871, "to_generic_F": 7435, "ok": true}
+    {"case": "[||H,H,K|l=1]", "generic": 1, "to_G": 1369, "to_Fermat": 12871, "to_generic_F": 7015, "ok": true}
+    {"case": "[||H,H,H,H|l=0]", "generic": 28, "to_G": 10441, "to_Fermat": 184757, "to_generic_F": 88593, "ok": true}
+    {"case": "[||H,H|l=4]", "generic": 19, "to_G": 761, "to_Fermat": 3433, "to_generic_F": 2339, "ok": true}
+    {"case": "[E0E0||H,H|l=0]", "generic": 58, "to_G": 2129, "to_Fermat": 8569, "to_generic_F": 6037, "ok": true}
+    {"case": "[|G|H,H|l=2]", "generic": 37, "to_G": 1369, "to_Fermat": 5545, "to_generic_F": 3901, "ok": true}
+    {"case": "[||H,H,H,H,H|l=1]", "generic": 1, "to_G": 249133, "to_Fermat": 10400601, "to_generic_F": 4081771, "ok": true}
+    {"case": "[||H,H,H,H,H,H,H,H,H,H|l=0]", "generic": 229636, "to_G": 92586230473, "ok": true}
+    {"case": "[||H,H,H,H,H,H,H,H,H,H|l=2]", "generic": 459271, "to_G": 339805080649, "ok": true}
+    {"case": "[||H,H,H,H,H,H,H,H,H,H,H|l=1]", "generic": 1, "to_G": 2877561741979, "ok": true}
+    {"case": "[||H,H,H,H,H,H,H,H,H,H,H|l=3]", "generic": 1, "to_G": 10700711171437, "ok": true}
+    {"case": "[||H,H,H,H,H,H,H,H,H,H,H|l=5]", "generic": 3, "to_G": 40166330544913, "ok": true}
+    {"case": "[w||H,H,H,H,H,H,H,H,H,H,H|l=2]", "generic": 3, "to_G": 40166330544913, "ok": true}
+    {"case": "[||H,H,H,H,H,H,H,H,H,H,H,K,K,K,K,K,K,K,K,K,K,K|l=0]", "generic": 3, "to_G": 6899788952437751356864753, "ok": true}
+    {"case": "[|G,G,G,G|H,H,H,H,H,H,H,H,H,H|l=0]", "generic": 399564901, "to_G": 161100041021281, "ok": true}
+(5c) H(x) + H(y) = 0: three disjoint P^4 {y = -omega^k x}, self-intersection 11, Gram rank with h^4 = 4 (= dim Hdg^4 for H = H') -- ok
+(6a) SU(11)-determinant Hodge classes in a single hypersurface: first at N = 60 (dimension 58); 27 configurations with N <= 62 searched -- ok
+    {"N": 60, "dim": 58, "quinary": [11], "kw": 0, "kg": 0, "kc": 0, "quaternary": [], "l": 5, "det5": 2}
+    {"N": 60, "dim": 58, "quinary": [11], "kw": 1, "kg": 0, "kc": 0, "quaternary": [], "l": 2, "det5": 2}
+(6b) products Z_H^a x E_omega^e: first determinant classes in dimension 46: [{'a': 11, 'e': 2, 'dim': 46, 'det_classes_all_degrees': 2}] -- ok
+(6c) A_H x E_omega^9: {'dimension': 20, 'signature': (10, 10), 'weil_class_excess': '0'} -- ok
+ALL CHECKS PASS

@@ -1,0 +1,87 @@
+(1)+(4) DELSARTE character count (independent) vs MODEL count of Proposition C; blocks F = x^3+y^3+z^3,
+        J = y^2z+x^3+xz^2, plus l terms z^3; N = 3k+l even, 4 <= N <= 16
+   N= 4 dim= 2 -|l=4        Delsarte Hdg=7      model Hdg=7      h^{m,m}_prim=6      dim H_prim=6      AGREE
+   N= 4 dim= 2 F|l=1        Delsarte Hdg=7      model Hdg=7      h^{m,m}_prim=6      dim H_prim=6      AGREE
+   N= 4 dim= 2 J|l=1        Delsarte Hdg=7      model Hdg=7      h^{m,m}_prim=6      dim H_prim=6      AGREE
+   N= 6 dim= 4 -|l=6        Delsarte Hdg=21     model Hdg=21     h^{m,m}_prim=20     dim H_prim=22     AGREE
+   N= 6 dim= 4 F|l=3        Delsarte Hdg=21     model Hdg=21     h^{m,m}_prim=20     dim H_prim=22     AGREE
+   N= 6 dim= 4 J|l=3        Delsarte Hdg=19     model Hdg=19     h^{m,m}_prim=20     dim H_prim=22     AGREE
+   N= 6 dim= 4 FF|l=0       Delsarte Hdg=21     model Hdg=21     h^{m,m}_prim=20     dim H_prim=22     AGREE
+   N= 6 dim= 4 FJ|l=0       Delsarte Hdg=19     model Hdg=19     h^{m,m}_prim=20     dim H_prim=22     AGREE
+   N= 6 dim= 4 JJ|l=0       Delsarte Hdg=21     model Hdg=21     h^{m,m}_prim=20     dim H_prim=22     AGREE
+   N= 8 dim= 6 -|l=8        Delsarte Hdg=71     model Hdg=71     h^{m,m}_prim=70     dim H_prim=86     AGREE
+   N= 8 dim= 6 F|l=5        Delsarte Hdg=71     model Hdg=71     h^{m,m}_prim=70     dim H_prim=86     AGREE
+   N= 8 dim= 6 J|l=5        Delsarte Hdg=61     model Hdg=61     h^{m,m}_prim=70     dim H_prim=86     AGREE
+   N= 8 dim= 6 FF|l=2       Delsarte Hdg=71     model Hdg=71     h^{m,m}_prim=70     dim H_prim=86     AGREE
+   N= 8 dim= 6 FJ|l=2       Delsarte Hdg=61     model Hdg=61     h^{m,m}_prim=70     dim H_prim=86     AGREE
+   N= 8 dim= 6 JJ|l=2       Delsarte Hdg=59     model Hdg=59     h^{m,m}_prim=70     dim H_prim=86     AGREE
+   N=10 dim= 8 -|l=10       Delsarte Hdg=253    model Hdg=253    h^{m,m}_prim=252    dim H_prim=342    AGREE
+   N=10 dim= 8 F|l=7        Delsarte Hdg=253    model Hdg=253    h^{m,m}_prim=252    dim H_prim=342    AGREE
+   N=10 dim= 8 J|l=7        Delsarte Hdg=211    model Hdg=211    h^{m,m}_prim=252    dim H_prim=342    AGREE
+   N=10 dim= 8 FF|l=4       Delsarte Hdg=253    model Hdg=253    h^{m,m}_prim=252    dim H_prim=342    AGREE
+   N=10 dim= 8 FJ|l=4       Delsarte Hdg=211    model Hdg=211    h^{m,m}_prim=252    dim H_prim=342    AGREE
+   N=10 dim= 8 JJ|l=4       Delsarte Hdg=193    model Hdg=193    h^{m,m}_prim=252    dim H_prim=342    AGREE
+   N=10 dim= 8 FFF|l=1      Delsarte Hdg=253    model Hdg=253    h^{m,m}_prim=252    dim H_prim=342    AGREE
+   N=10 dim= 8 FFJ|l=1      Delsarte Hdg=211    model Hdg=211    h^{m,m}_prim=252    dim H_prim=342    AGREE
+   N=10 dim= 8 FJJ|l=1      Delsarte Hdg=193    model Hdg=193    h^{m,m}_prim=252    dim H_prim=342    AGREE
+   N=10 dim= 8 JJJ|l=1      Delsarte Hdg=199    model Hdg=199    h^{m,m}_prim=252    dim H_prim=342    AGREE
+   N=12 dim=10 -|l=12       Delsarte Hdg=925    model Hdg=925    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=12 dim=10 F|l=9        Delsarte Hdg=925    model Hdg=925    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=12 dim=10 J|l=9        Delsarte Hdg=757    model Hdg=757    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=12 dim=10 FF|l=6       Delsarte Hdg=925    model Hdg=925    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=12 dim=10 FJ|l=6       Delsarte Hdg=757    model Hdg=757    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=12 dim=10 JJ|l=6       Delsarte Hdg=671    model Hdg=671    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=12 dim=10 FFF|l=3      Delsarte Hdg=925    model Hdg=925    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=12 dim=10 FFJ|l=3      Delsarte Hdg=757    model Hdg=757    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=12 dim=10 FJJ|l=3      Delsarte Hdg=671    model Hdg=671    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=12 dim=10 JJJ|l=3      Delsarte Hdg=649    model Hdg=649    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=12 dim=10 FFFF|l=0     Delsarte Hdg=925    model Hdg=925    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=12 dim=10 FFFJ|l=0     Delsarte Hdg=757    model Hdg=757    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=12 dim=10 FFJJ|l=0     Delsarte Hdg=671    model Hdg=671    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=12 dim=10 FJJJ|l=0     Delsarte Hdg=649    model Hdg=649    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=12 dim=10 JJJJ|l=0     Delsarte Hdg=709    model Hdg=709    h^{m,m}_prim=924    dim H_prim=1366   AGREE
+   N=14 dim=12 -|l=14       Delsarte Hdg=3433   model Hdg=3433   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=14 dim=12 F|l=11       Delsarte Hdg=3433   model Hdg=3433   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=14 dim=12 J|l=11       Delsarte Hdg=2773   model Hdg=2773   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=14 dim=12 FF|l=8       Delsarte Hdg=3433   model Hdg=3433   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=14 dim=12 FJ|l=8       Delsarte Hdg=2773   model Hdg=2773   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=14 dim=12 JJ|l=8       Delsarte Hdg=2409   model Hdg=2409   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=14 dim=12 FFF|l=5      Delsarte Hdg=3433   model Hdg=3433   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=14 dim=12 FFJ|l=5      Delsarte Hdg=2773   model Hdg=2773   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=14 dim=12 FJJ|l=5      Delsarte Hdg=2409   model Hdg=2409   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=14 dim=12 JJJ|l=5      Delsarte Hdg=2251   model Hdg=2251   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=14 dim=12 FFFF|l=2     Delsarte Hdg=3433   model Hdg=3433   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=14 dim=12 FFFJ|l=2     Delsarte Hdg=2773   model Hdg=2773   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=14 dim=12 FFJJ|l=2     Delsarte Hdg=2409   model Hdg=2409   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=14 dim=12 FJJJ|l=2     Delsarte Hdg=2251   model Hdg=2251   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=14 dim=12 JJJJ|l=2     Delsarte Hdg=2281   model Hdg=2281   h^{m,m}_prim=3432   dim H_prim=5462   AGREE
+   N=16 dim=14 -|l=16       Delsarte Hdg=12871  model Hdg=12871  h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 F|l=13       Delsarte Hdg=12871  model Hdg=12871  h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 J|l=13       Delsarte Hdg=10297  model Hdg=10297  h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 FF|l=10      Delsarte Hdg=12871  model Hdg=12871  h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 FJ|l=10      Delsarte Hdg=10297  model Hdg=10297  h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 JJ|l=10      Delsarte Hdg=8821   model Hdg=8821   h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 FFF|l=7      Delsarte Hdg=12871  model Hdg=12871  h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 FFJ|l=7      Delsarte Hdg=10297  model Hdg=10297  h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 FJJ|l=7      Delsarte Hdg=8821   model Hdg=8821   h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 JJJ|l=7      Delsarte Hdg=8065   model Hdg=8065   h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 FFFF|l=4     Delsarte Hdg=12871  model Hdg=12871  h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 FFFJ|l=4     Delsarte Hdg=10297  model Hdg=10297  h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 FFJJ|l=4     Delsarte Hdg=8821   model Hdg=8821   h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 FJJJ|l=4     Delsarte Hdg=8065   model Hdg=8065   h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 JJJJ|l=4     Delsarte Hdg=7867   model Hdg=7867   h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 FFFFF|l=1    Delsarte Hdg=12871  model Hdg=12871  h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 FFFFJ|l=1    Delsarte Hdg=10297  model Hdg=10297  h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 FFFJJ|l=1    Delsarte Hdg=8821   model Hdg=8821   h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 FFJJJ|l=1    Delsarte Hdg=8065   model Hdg=8065   h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 FJJJJ|l=1    Delsarte Hdg=7867   model Hdg=7867   h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+   N=16 dim=14 JJJJJ|l=1    Delsarte Hdg=8281   model Hdg=8281   h^{m,m}_prim=12870  dim H_prim=21846  AGREE
+(3) Fermat cubic via Shioda criterion vs Delsarte (k = 0) and model (all blocks F)
+   N= 4  Shioda Hdg=7      Delsarte=7      1+binom(N,N/2)=7      model (k F-blocks, k=0..1)=[7, 7] AGREE
+   N= 6  Shioda Hdg=21     Delsarte=21     1+binom(N,N/2)=21     model (k F-blocks, k=0..2)=[21, 21, 21] AGREE
+   N= 8  Shioda Hdg=71     Delsarte=71     1+binom(N,N/2)=71     model (k F-blocks, k=0..2)=[71, 71, 71] AGREE
+   N=10  Shioda Hdg=253    Delsarte=253    1+binom(N,N/2)=253    model (k F-blocks, k=0..3)=[253, 253, 253, 253] AGREE
+   N=12  Shioda Hdg=925    Delsarte=925    1+binom(N,N/2)=925    model (k F-blocks, k=0..4)=[925, 925, 925, 925, 925] AGREE
+   N=14  Shioda Hdg=3433   Delsarte=3433   1+binom(N,N/2)=3433   model (k F-blocks, k=0..4)=[3433, 3433, 3433, 3433, 3433] AGREE
+   N=16  Shioda Hdg=12871  Delsarte=12871  1+binom(N,N/2)=12871  model (k F-blocks, k=0..5)=[12871, 12871, 12871, 12871, 12871, 12871] AGREE
+ALL AGREE

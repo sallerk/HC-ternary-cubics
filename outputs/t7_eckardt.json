@@ -1,0 +1,574 @@
+{
+ "generic": [
+  {
+   "hilbert": [
+    1,
+    4,
+    6,
+    4,
+    1,
+    0
+   ],
+   "pairing_rank": 4,
+   "ok": true
+  },
+  {
+   "hilbert": [
+    1,
+    4,
+    6,
+    4,
+    1,
+    0
+   ],
+   "pairing_rank": 4,
+   "ok": true
+  },
+  {
+   "hilbert": [
+    1,
+    4,
+    6,
+    4,
+    1,
+    0
+   ],
+   "pairing_rank": 4,
+   "ok": true
+  }
+ ],
+ "eckardt": [
+  {
+   "hilbert": [
+    1,
+    4,
+    6,
+    4,
+    1,
+    0
+   ],
+   "hilbert_w_even": [
+    1,
+    3,
+    4,
+    3,
+    1
+   ],
+   "hilbert_w_odd": [
+    0,
+    1,
+    2,
+    1,
+    0
+   ],
+   "W_minus": [
+    3,
+    1
+   ],
+   "W_plus": [
+    1,
+    0
+   ],
+   "pairing_rank_even": 3,
+   "pairing_rank_odd": 1,
+   "ok": true
+  },
+  {
+   "hilbert": [
+    1,
+    4,
+    6,
+    4,
+    1,
+    0
+   ],
+   "hilbert_w_even": [
+    1,
+    3,
+    4,
+    3,
+    1
+   ],
+   "hilbert_w_odd": [
+    0,
+    1,
+    2,
+    1,
+    0
+   ],
+   "W_minus": [
+    3,
+    1
+   ],
+   "W_plus": [
+    1,
+    0
+   ],
+   "pairing_rank_even": 3,
+   "pairing_rank_odd": 1,
+   "ok": true
+  },
+  {
+   "hilbert": [
+    1,
+    4,
+    6,
+    4,
+    1,
+    0
+   ],
+   "hilbert_w_even": [
+    1,
+    3,
+    4,
+    3,
+    1
+   ],
+   "hilbert_w_odd": [
+    0,
+    1,
+    2,
+    1,
+    0
+   ],
+   "W_minus": [
+    3,
+    1
+   ],
+   "W_plus": [
+    1,
+    0
+   ],
+   "pairing_rank_even": 3,
+   "pairing_rank_odd": 1,
+   "ok": true
+  },
+  {
+   "control_tangent": [
+    1,
+    4,
+    6,
+    4,
+    2,
+    2
+   ],
+   "control_nodal": [
+    1,
+    4,
+    6,
+    4,
+    1,
+    1
+   ],
+   "singular_detected": true
+  },
+  {
+   "fermat_is_C_plus_w2L": true
+  }
+ ],
+ "I_sl4": {
+  "0,0": 1,
+  "0,1": 0,
+  "0,2": 0,
+  "0,3": 0,
+  "0,4": 1,
+  "0,5": 0,
+  "0,6": 0,
+  "1,0": 0,
+  "1,1": 1,
+  "1,2": 0,
+  "1,3": 0,
+  "1,4": 0,
+  "1,5": 4,
+  "1,6": 0,
+  "2,0": 0,
+  "2,1": 0,
+  "2,2": 2,
+  "2,3": 0,
+  "2,4": 0,
+  "2,5": 0,
+  "2,6": 19,
+  "3,0": 0,
+  "3,1": 0,
+  "3,2": 0,
+  "3,3": 6,
+  "3,4": 0,
+  "3,5": 0,
+  "4,0": 1,
+  "4,1": 0,
+  "4,2": 0,
+  "4,3": 0,
+  "4,4": 24,
+  "5,0": 0,
+  "5,1": 4,
+  "5,2": 0,
+  "5,3": 0,
+  "6,0": 0,
+  "6,1": 0,
+  "6,2": 19
+ },
+ "prop_Csecond": [
+  {
+   "case": "[|G|l=2]",
+   "N": 6,
+   "dim": 4,
+   "generic": 13,
+   "regression_ok": true,
+   "eckardt": 15,
+   "eckardt_weights": 15,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 21,
+   "ok": true
+  },
+  {
+   "case": "[|G|l=4]",
+   "N": 8,
+   "dim": 6,
+   "generic": 37,
+   "regression_ok": true,
+   "eckardt": 45,
+   "eckardt_weights": 45,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 71,
+   "ok": true
+  },
+  {
+   "case": "[w|G|l=1]",
+   "N": 8,
+   "dim": 6,
+   "generic": 37,
+   "regression_ok": true,
+   "eckardt": 45,
+   "eckardt_weights": 45,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 71,
+   "ok": true
+  },
+  {
+   "case": "[E0|G|l=1]",
+   "N": 8,
+   "dim": 6,
+   "generic": 37,
+   "regression_ok": true,
+   "eckardt": 43,
+   "eckardt_weights": 43,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 61,
+   "ok": true
+  },
+  {
+   "case": "[i|G|l=1]",
+   "N": 8,
+   "dim": 6,
+   "generic": 37,
+   "regression_ok": true,
+   "eckardt": 43,
+   "eckardt_weights": 43,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 61,
+   "ok": true
+  },
+  {
+   "case": "[|G,G|l=0]",
+   "N": 8,
+   "dim": 6,
+   "generic": 39,
+   "regression_ok": true,
+   "eckardt": 41,
+   "eckardt_weights": 41,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 71,
+   "ok": true
+  },
+  {
+   "case": "[|G,H|l=0]",
+   "N": 8,
+   "dim": 6,
+   "generic": 37,
+   "regression_ok": true,
+   "eckardt": 39,
+   "eckardt_weights": 39,
+   "eckardt_det": 0,
+   "mixed": 37,
+   "fermat": 71,
+   "ok": true
+  },
+  {
+   "case": "[|G,G|l=2]",
+   "N": 10,
+   "dim": 8,
+   "generic": 77,
+   "regression_ok": true,
+   "eckardt": 105,
+   "eckardt_weights": 105,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 253,
+   "ok": true
+  },
+  {
+   "case": "[w|G,G|l=1]",
+   "N": 12,
+   "dim": 10,
+   "generic": 229,
+   "regression_ok": true,
+   "eckardt": 339,
+   "eckardt_weights": 339,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 925,
+   "ok": true
+  },
+  {
+   "case": "[ww|G|l=0]",
+   "N": 10,
+   "dim": 8,
+   "generic": 121,
+   "regression_ok": true,
+   "eckardt": 151,
+   "eckardt_weights": 151,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 253,
+   "ok": true
+  },
+  {
+   "case": "[|G,G,G|l=0]",
+   "N": 12,
+   "dim": 10,
+   "generic": 253,
+   "regression_ok": true,
+   "eckardt": 289,
+   "eckardt_weights": 289,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 925,
+   "ok": true
+  },
+  {
+   "case": "[|G,G,H|l=0]",
+   "N": 12,
+   "dim": 10,
+   "generic": 229,
+   "regression_ok": true,
+   "eckardt": 265,
+   "eckardt_weights": 265,
+   "eckardt_det": 0,
+   "mixed": 241,
+   "fermat": 925,
+   "ok": true
+  },
+  {
+   "case": "[|G,H,K|l=0]",
+   "N": 12,
+   "dim": 10,
+   "generic": 217,
+   "regression_ok": true,
+   "eckardt": 253,
+   "eckardt_weights": 253,
+   "eckardt_det": 0,
+   "mixed": 217,
+   "fermat": 925,
+   "ok": true
+  },
+  {
+   "case": "[|G,G|l=4]",
+   "N": 12,
+   "dim": 10,
+   "generic": 229,
+   "regression_ok": true,
+   "eckardt": 339,
+   "eckardt_weights": 339,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 925,
+   "ok": true
+  },
+  {
+   "case": "[E0E0|G|l=0]",
+   "N": 10,
+   "dim": 8,
+   "generic": 115,
+   "regression_ok": true,
+   "eckardt": 133,
+   "eckardt_weights": 133,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 187,
+   "ok": true
+  },
+  {
+   "case": "[E0E1|G|l=0]",
+   "N": 10,
+   "dim": 8,
+   "generic": 109,
+   "regression_ok": true,
+   "eckardt": 127,
+   "eckardt_weights": 127,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 181,
+   "ok": true
+  },
+  {
+   "case": "[|G,G,G,G|l=0]",
+   "N": 16,
+   "dim": 14,
+   "generic": 1741,
+   "regression_ok": true,
+   "eckardt": 2203,
+   "eckardt_weights": 2203,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 12871,
+   "ok": true
+  },
+  {
+   "case": "[|G,G,H,H|l=0]",
+   "N": 16,
+   "dim": 14,
+   "generic": 1445,
+   "regression_ok": true,
+   "eckardt": 1891,
+   "eckardt_weights": 1891,
+   "eckardt_det": 0,
+   "mixed": 1521,
+   "fermat": 12871,
+   "ok": true
+  },
+  {
+   "case": "[ww|G,G|l=0]",
+   "N": 14,
+   "dim": 12,
+   "generic": 761,
+   "regression_ok": true,
+   "eckardt": 1173,
+   "eckardt_weights": 1173,
+   "eckardt_det": 0,
+   "mixed": null,
+   "fermat": 3433,
+   "ok": true
+  },
+  {
+   "case": "[|G,G,G,G|l=2]",
+   "N": 18,
+   "dim": 16,
+   "generic": 3481,
+   "regression_ok": true,
+   "eckardt": 6567,
+   "eckardt_weights": 6567,
+   "eckardt_det": 2,
+   "mixed": null,
+   "fermat": 48621,
+   "ok": true
+  },
+  {
+   "case": "[|G,G,G,G,G|l=4]",
+   "N": 24,
+   "dim": 22,
+   "generic": 74739,
+   "regression_ok": true,
+   "eckardt": 190447,
+   "eckardt_weights": 190447,
+   "eckardt_det": 310,
+   "mixed": null,
+   "fermat": 2704157,
+   "ok": true
+  },
+  {
+   "case": "[w|G,G,G,G,G|l=1]",
+   "N": 24,
+   "dim": 22,
+   "generic": 74739,
+   "regression_ok": true,
+   "eckardt": 190447,
+   "eckardt_weights": 190447,
+   "eckardt_det": 310,
+   "mixed": null,
+   "fermat": 2704157,
+   "ok": true
+  },
+  {
+   "case": "[|G,G,G,G,G,H,H,H,H,H|l=0]",
+   "N": 40,
+   "dim": 38,
+   "generic": 155151939,
+   "regression_ok": true,
+   "ok": true
+  }
+ ],
+ "eck_det_threshold": {
+  "Nmin": 18,
+  "configurations": [
+   {
+    "config": "4 e0 l=0",
+    "N": 16,
+    "dim": 14,
+    "hodge": 2203,
+    "det_eck": 0
+   },
+   {
+    "config": "4 e0 l=2",
+    "N": 18,
+    "dim": 16,
+    "hodge": 6567,
+    "det_eck": 2
+   },
+   {
+    "config": "4 e0 l=4",
+    "N": 20,
+    "dim": 18,
+    "hodge": 22325,
+    "det_eck": 8
+   },
+   {
+    "config": "4 e0 +e0",
+    "N": 20,
+    "dim": 18,
+    "hodge": 17687,
+    "det_eck": 10
+   },
+   {
+    "config": "4 e0 +e1",
+    "N": 20,
+    "dim": 18,
+    "hodge": 15375,
+    "det_eck": 2
+   },
+   {
+    "config": "4 e0 +g",
+    "N": 20,
+    "dim": 18,
+    "hodge": 13213,
+    "det_eck": 0
+   },
+   {
+    "config": "4 e0 +F_w,l=1",
+    "N": 20,
+    "dim": 18,
+    "hodge": 22325,
+    "det_eck": 8
+   },
+   {
+    "config": "4 e0 +F_i,l=1",
+    "N": 20,
+    "dim": 18,
+    "hodge": 19699,
+    "det_eck": 6
+   },
+   {
+    "config": "4 e0 +F_gen,l=1",
+    "N": 20,
+    "dim": 18,
+    "hodge": 19699,
+    "det_eck": 6
+   }
+  ]
+ }
+}
